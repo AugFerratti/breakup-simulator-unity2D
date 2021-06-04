@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe4e6298a5bb4c74db52837277f7bc46, type: 3}
   m_Name: EscolhaN
   m_EditorClassIdentifier: 
-  storyText: "\"Acho que pensamos diferente.\"\n\n\"Agora pretendo focar nos estudos
-    e na carreira.\"\n\n\" Voc\xEA \xE9 muito para mim.\"\n\n[ENTER para continuar...] "
+  storyText: "\"Agora pretendo focar nos estudos e na carreira.\"\n\n\" Voc\xEA \xE9
+    muito para mim.\"\n\n[ENTER para continuar...] "
   nextStates:
   - {fileID: 11400000, guid: e3e8b81f43f4a86459fa456c56215404, type: 2}
   - {fileID: 11400000, guid: e3e8b81f43f4a86459fa456c56215404, type: 2}
