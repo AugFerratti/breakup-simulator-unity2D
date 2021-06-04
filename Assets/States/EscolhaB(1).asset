@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe4e6298a5bb4c74db52837277f7bc46, type: 3}
+  m_Name: EscolhaB(1)
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA come\xE7a a escrever \"Aonde voc\xEA t\xE1?\" e inevitavelmente
+    olha as mensagens anteriores, a longa discuss\xE3o sobre voc\xEAs dois n\xE3o
+    fazerem mais sentido juntos.\r\n\r\nVoc\xEA envia a mensagem e pensa \"Como isso
+    aconteceu?\"\r\n[ENTER para continuar...] "
+  nextStates:
+  - {fileID: 11400000, guid: dc239fc137b53d94abf5e42c54bab5f1, type: 2}
+  - {fileID: 11400000, guid: dc239fc137b53d94abf5e42c54bab5f1, type: 2}
+  - {fileID: 11400000, guid: dc239fc137b53d94abf5e42c54bab5f1, type: 2}

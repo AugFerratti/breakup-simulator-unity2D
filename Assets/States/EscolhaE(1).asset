@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe4e6298a5bb4c74db52837277f7bc46, type: 3}
+  m_Name: EscolhaE(1)
+  m_EditorClassIdentifier: 
+  storyText: "Com os olhares fixos um no outro, o sil\xEAncio se sustenta por mais
+    de 30 segundos, com exce\xE7\xE3o de poucas conversas paralelas e roncos de motores
+    de autom\xF3veis.\r\n\r\nO que voc\xEA deve fazer?\r\n1. \"Ent\xE3o...\"\r\n2.
+    *Manter-se em sil\xEAncio\""
+  nextStates:
+  - {fileID: 11400000, guid: 4b4cd541cf68e6643928d85cf4523d3e, type: 2}
+  - {fileID: 11400000, guid: cc70076b300673c47b470a65a46e48bc, type: 2}

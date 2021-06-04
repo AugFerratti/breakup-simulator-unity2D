@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe4e6298a5bb4c74db52837277f7bc46, type: 3}
+  m_Name: EscolhaD(2)
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA percebe que a pessoa te procura com o olhar entre todos os
+    que est\xE3o por ali. Quando te encontra e percebe que voc\xEA est\xE1 im\xF3vel
+    a olhando, o semblante dela passa de d\xFAvida para indiferen\xE7a. Ela se aproxima
+    e senta na mesa.\r\n\r\n[ENTER para continuar...]"
+  nextStates:
+  - {fileID: 11400000, guid: fc138a970273e9547a6a3a5dac1a11ef, type: 2}
+  - {fileID: 11400000, guid: fc138a970273e9547a6a3a5dac1a11ef, type: 2}
+  - {fileID: 11400000, guid: fc138a970273e9547a6a3a5dac1a11ef, type: 2}

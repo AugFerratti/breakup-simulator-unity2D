@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe4e6298a5bb4c74db52837277f7bc46, type: 3}
+  m_Name: EscolhaC(1)
+  m_EditorClassIdentifier: 
+  storyText: "Enquanto caminha na sua dire\xE7\xE3o, uma d\xFAvida surge na sua mente.
+    \"Devo me levantar? Abra\xE7ar, cumprimentar?\"\r\n\r\nO que voc\xEA deve fazer?\r\n1.
+    *Mostrar-se cordial, levantar para cumprimentar*\r\n2. *Manter-se na cadeira
+    e im\xF3vel*"
+  nextStates:
+  - {fileID: 11400000, guid: 9a47eaadc24a62a4584655008a76689b, type: 2}
+  - {fileID: 11400000, guid: 73ec02547963b224fb48db40d945f61f, type: 2}

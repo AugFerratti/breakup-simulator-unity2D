@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe4e6298a5bb4c74db52837277f7bc46, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "\xC9 uma tarde nublada de s\xE1bado, voc\xEA se encontra impaciente
+    em uma mesa de um caf\xE9, com poucas pessoas ao seu redor.\n\nS\xE3o 16:42..
+    o encontro estava marcado para 16:30. Por onde ser\xE1 que anda? Ser\xE1 que
+    desistiu de te encontrar?\n[ENTER para continuar...]"
+  nextStates:
+  - {fileID: 11400000, guid: 2dfa5d24530fd8e4d9a1d0e90fef8cc2, type: 2}
+  - {fileID: 11400000, guid: 2dfa5d24530fd8e4d9a1d0e90fef8cc2, type: 2}
+  - {fileID: 11400000, guid: 2dfa5d24530fd8e4d9a1d0e90fef8cc2, type: 2}
