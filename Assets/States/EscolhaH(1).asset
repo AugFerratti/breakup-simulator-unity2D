@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe4e6298a5bb4c74db52837277f7bc46, type: 3}
   m_Name: EscolhaH(1)
   m_EditorClassIdentifier: 
-  storyText: "\"Bem... passei muito tempo pensando e decidir isso. Mas tenho algumas
+  storyText: "\"Bem... passei muito tempo pensando para decidir isso. Mas tenho algumas
     coisas para falar para voc\xEA... coisas que demoraram muito para aparecer\"\n\n1.
     \"Ok.. v\xE1 em frente\"\n2. \"Ceeerto...\"\n\n"
   nextStates:
